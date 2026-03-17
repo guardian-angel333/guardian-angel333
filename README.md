@@ -12,3 +12,5 @@
 ---
 
 > "Путь в тысячу миль начинается с первого репозитория."
+![Моя статистика GitHub](https://github-readme-stats.vercel.app/api?username=guardian-angel333&show_icons=true&theme=dracula&bg_color=000000&title_color=gold&text_color=white&icon_color=red)
+![Просмотры](https://komarev.com/ghpvc/?username=guardian-angel333&color=gold&style=flat-square)
